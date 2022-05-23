@@ -1,0 +1,40 @@
+.top_nav {
+  display:initial;
+}
+.logo {
+  color:pink;
+}
+.logo:hover {
+  color: rgb(214, 174, 236)
+}
+.search_bar {
+  border:transparent;
+  display:flex;
+  position: relative;
+  min-width: 100px;
+}
+.nav-btn {
+  background-color: transparent;
+}
+
+.btn:hover {
+  background-color:pink;
+}
+
+.nav-link {
+  color:pink;
+  margin:10px;
+}
+.nav-link:hover {
+  color:rgb(214, 174, 236);
+  border-bottom: 20spx;
+}
+.icon_card {
+  display: inline-block;
+  justify-content: space-around;
+  border:transparent;
+}
+.card_sender {
+  border-left:transparent;
+  border-right:transparent;
+}
